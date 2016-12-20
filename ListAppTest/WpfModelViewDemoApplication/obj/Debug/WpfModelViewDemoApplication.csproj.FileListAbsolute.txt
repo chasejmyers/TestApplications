@@ -1,0 +1,17 @@
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\bin\Debug\WpfModelViewDemoApplication.exe.config
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\bin\Debug\WpfModelViewDemoApplication.exe
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\bin\Debug\WpfModelViewDemoApplication.pdb
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\Views\MainView.g.cs
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\App.g.cs
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication_MarkupCompile.cache
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication_MarkupCompile.lref
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\Views\MainView.baml
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.g.resources
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.Properties.Resources.resources
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.csproj.GenerateResource.Cache
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.exe
+C:\Users\ChaseJMyers\Downloads\WpfModelViewDemoApplication\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.pdb
+C:\Code\TestApps\ListAppTest\WpfModelViewDemoApplication\bin\Debug\WpfModelViewDemoApplication.exe.config
+C:\Code\TestApps\ListAppTest\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.exe
+C:\Code\TestApps\ListAppTest\WpfModelViewDemoApplication\obj\Debug\WpfModelViewDemoApplication.pdb
